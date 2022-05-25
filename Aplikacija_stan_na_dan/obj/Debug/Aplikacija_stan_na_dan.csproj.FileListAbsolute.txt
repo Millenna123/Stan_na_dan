@@ -1,0 +1,12 @@
+C:\Users\Sale\Desktop\Aplikacije\Stan_na_dan\Aplikacija_stan_na_dan\bin\Debug\Aplikacija_stan_na_dan.exe.config
+C:\Users\Sale\Desktop\Aplikacije\Stan_na_dan\Aplikacija_stan_na_dan\bin\Debug\Aplikacija_stan_na_dan.exe
+C:\Users\Sale\Desktop\Aplikacije\Stan_na_dan\Aplikacija_stan_na_dan\bin\Debug\Aplikacija_stan_na_dan.pdb
+C:\Users\Sale\Desktop\Aplikacije\Stan_na_dan\Aplikacija_stan_na_dan\obj\Debug\Aplikacija_stan_na_dan.csprojAssemblyReference.cache
+C:\Users\Sale\Desktop\Aplikacije\Stan_na_dan\Aplikacija_stan_na_dan\obj\Debug\Aplikacija_stan_na_dan.Login.resources
+C:\Users\Sale\Desktop\Aplikacije\Stan_na_dan\Aplikacija_stan_na_dan\obj\Debug\Aplikacija_stan_na_dan.Properties.Resources.resources
+C:\Users\Sale\Desktop\Aplikacije\Stan_na_dan\Aplikacija_stan_na_dan\obj\Debug\Aplikacija_stan_na_dan.csproj.GenerateResource.cache
+C:\Users\Sale\Desktop\Aplikacije\Stan_na_dan\Aplikacija_stan_na_dan\obj\Debug\Aplikacija_stan_na_dan.csproj.CoreCompileInputs.cache
+C:\Users\Sale\Desktop\Aplikacije\Stan_na_dan\Aplikacija_stan_na_dan\obj\Debug\Aplikacija_stan_na_dan.exe
+C:\Users\Sale\Desktop\Aplikacije\Stan_na_dan\Aplikacija_stan_na_dan\obj\Debug\Aplikacija_stan_na_dan.pdb
+C:\Users\Sale\Desktop\Aplikacije\Stan_na_dan\Aplikacija_stan_na_dan\obj\Debug\Aplikacija_stan_na_dan.Clan.resources
+C:\Users\Sale\Desktop\Aplikacije\Stan_na_dan\Aplikacija_stan_na_dan\obj\Debug\Aplikacija_stan_na_dan.Zaposleni.resources
